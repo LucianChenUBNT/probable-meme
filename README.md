@@ -6,3 +6,5 @@ Tho Git-Flow is a good things, but no fit for small project.
 https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 
 Ok, just want to add something in the develop branch.
+
+Should I install a text mode twitter client ?
